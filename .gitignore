@@ -1,0 +1,36 @@
+﻿# Node
+node_modules/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PlatformIO
+.pio/
+
+# Test coverage
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Database
+*.sqlite
+*.db
