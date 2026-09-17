@@ -24,3 +24,12 @@ Entender
 
 O objetivo é construir o CheckPonto incrementalmente, com entregas pequenas
 e integráveis.
+
+## Issues planejadas
+
+As primeiras tarefas de implementação estão organizadas em:
+
+[issues/README.md](issues/README.md)
+
+Elas devem ser liberadas progressivamente conforme as dependências.
+
